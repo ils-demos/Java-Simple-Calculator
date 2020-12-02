@@ -11,6 +11,7 @@ the
 user. 
 
 Examples Addition and Subtraction
+
 	 To add values, enter: 
 		 12+12
 		 this will return "result: 24"
@@ -26,6 +27,7 @@ Examples Addition and Subtraction
 
 
 Examples Multiplication and Division
+
 	 To multiply values, enter: 
 		 12*12
 		 this will return "result: 144"
@@ -41,6 +43,7 @@ Examples Multiplication and Division
 
 
 Examples exponents
+
 	 To factor exponents enter, enter: 
 		 2^(10)
 		 this will return "result: 1024"
@@ -50,6 +53,7 @@ Examples exponents
 
 
 Examples with Paranthesis
+
 	 To control order of operation, add operations inside of paranthesis, enter: 
 		 2*(2+2)
 		 this will return "result: 8"
@@ -59,6 +63,7 @@ Examples with Paranthesis
 
 
 Examples with all operations
+
 	 Combine all operations: 
 		(12+12)*(12/12)
 		 this will return "result: 24
