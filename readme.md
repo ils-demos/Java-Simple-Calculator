@@ -1,15 +1,16 @@
+# Calculator App
+
+## Overview
 This is a simple calculator that computes the elementary arithmetics. This calculatorw supports 
 (), ^, *, /, +, and subtraction. It uses Pemdas operations to compute the answer of the equation 
 see examples below.
 
+## Technical Overview
 The application utilices the several  Design Patters and OOP Logic with Java's generic tools. The 
 State Design patter is used  to control the screen and input option. Polymorphism and inheritance 
 properties are used to control the appropriate calculation for each opeartion. 
 
-for 
-the 
-user. 
-
+## Examples
 Examples Addition and Subtraction
 
 	 To add values, enter: 
